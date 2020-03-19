@@ -1,5 +1,4 @@
 k apply -f github/simple-pipeline/
-k apply -f github1/simple-pipeline/
 k apply -f github2/simple-pipeline/
 k apply -f github3/simple-pipeline/
 k apply -f github4/simple-pipeline/
